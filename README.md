@@ -17,3 +17,8 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+3. Run the deployed link
+
+   ```
+   https://gdpdashboard.streamlit.app/
+   ```
